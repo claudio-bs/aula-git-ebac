@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome: Cláudio
+-Profissão: Analista de Suporte e Serviços Técnicos
+-Cidade: Araçatuba - SP
+-O que faz nas horas vagas: Treino musculação, vejo vídeos no Youtube, assisto filmes e séries. 
+-Feedback sobre o curso Qualidade de Software: Até o momento está sendo muito desafiador, apesar disso também é motivante e demonstra qualidade e profissionalismo do professor. Faz aumentar ainda mais a expectativa de estar pronto para o mercado de trabalho e atuar na área de QA quando finalizar o curso.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma "limpa", de fácil usabilidade, não tive problemas até o momento em utilizá-la. Estou gostando e recomendo.
+
+Obrigado!!!
